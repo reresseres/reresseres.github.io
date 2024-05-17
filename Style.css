@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #87CEEB;
+}
+
+canvas {
+    display: none;
+    border: 1px solid #000;
+}
+
+#startScreen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    text-align: center;
+}
+
+#startButton {
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+ 

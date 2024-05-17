@@ -1,0 +1,13 @@
+my-jump-and-run-game/
+├── index.html
+├── styles.css
+├── game.js
+└── assets/
+    ├── background.png
+    ├── character.png
+    ├── level1.png
+    ├── level2.png
+    ├── level3.png
+    ├── level4.png
+    ├── level5.png
+    └── insect.png
